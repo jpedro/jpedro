@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 !-- -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro&layout=compact&theme=solarized-light)
 ![Stats Card](https://github-readme-stats.vercel.app/api?username=jpedro&_show_icons=true&theme=solarized-light&hide=_stars,commits,_prs,_issues,_contribs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro&layout=compact&theme=solarized-light)
