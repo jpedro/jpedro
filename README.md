@@ -1,6 +1,6 @@
+<!-- --
 ### Hi there 👋
 
-<!-- --
 **jpedro/jpedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 !-- -->
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jpedro&_show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro&_layout=compact)
+![Stats Card](https://github-readme-stats.vercel.app/api?username=jpedro&_show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro&_layout=compact)
