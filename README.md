@@ -2,4 +2,4 @@
 
 This repository's `README.md` appears on my GitHub profile.
 
-![Image](http://lorempixel.com/330/230/)
+![Some random image](https://source.unsplash.com/random)
