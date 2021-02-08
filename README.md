@@ -1,5 +1,7 @@
 ### Hello there!
 
-This repository's `README.md` appears on my GitHub profile.
+<!-- This repository's `README.md` appears on my GitHub profile. -->
 
-![Some random image](https://source.unsplash.com/random)
+<img src="https://source.unsplash.com/random" height="200" />
+
+<!-- ![Some random image](https://source.unsplash.com/random) -->
