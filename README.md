@@ -1,10 +1,10 @@
 ### Hello there!
 
-<!-- -->
+<!-- --
 And here's your random image:
 
 <img src="https://lorempixel.com/500/200/" height="200" />
-<!-- -->
+!-- -->
 
 <!-- --
 And here's a random face:
