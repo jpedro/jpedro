@@ -9,6 +9,6 @@
 
 ### And here's a random face:
 
-<img src="https://thispersondoesnotexist.com/image" height="300" />
+<img src="https://thispersondoesnotexist.com" height="300" />
 
 **Pss!** This person doesn't exist.
