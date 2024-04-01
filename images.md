@@ -1,7 +1,9 @@
 # Images
 
 
-### And here's your random image:
+### Here's your random image:
+
+Somehow these are cached. Hmm...
 
 <!-- <img src="https://lorempixel.com/500/200/" height="200" /> -->
 <img src="https://source.unsplash.com/random" height="300" />
