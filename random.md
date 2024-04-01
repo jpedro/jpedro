@@ -3,7 +3,9 @@
 Somehow these are cached. Hmm...
 
 
-### Here's your random image:
+### Random image:
+
+From source.unsplash.com/random:
 
 <!-- <img src="https://lorempixel.com/500/200/" height="200" /> -->
 <img src="https://source.unsplash.com/random" height="300" />
@@ -11,6 +13,6 @@ Somehow these are cached. Hmm...
 
 ### And here's a random face:
 
-<img src="https://thispersondoesnotexist.com?t=1" height="300" />
+From thispersondoesnotexist.com:
 
-(**Pss!** This person doesn't exist.)
+<img src="https://thispersondoesnotexist.com?t=1" height="300" />
