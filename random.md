@@ -5,7 +5,7 @@ Somehow these are cached. Hmm...
 
 ### Random image:
 
-From source.unsplash.com/random:
+From https://source.unsplash.com/random:
 
 <!-- <img src="https://lorempixel.com/500/200/" height="200" /> -->
 <img src="https://source.unsplash.com/random" height="300" />
@@ -13,6 +13,6 @@ From source.unsplash.com/random:
 
 ### And here's a random face:
 
-From thispersondoesnotexist.com:
+From https://thispersondoesnotexist.com:
 
 <img src="https://thispersondoesnotexist.com?t=1" height="300" />
