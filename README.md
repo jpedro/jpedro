@@ -1,8 +1,34 @@
 
-### Hello GitHub!
+# Hello GitHub!
+
+Special repos on GitHub:
+
+- [`jpedro/jpedro`](https://github.com/jpedro/jpedro) is a special repository.
+  Its `README.md` will appear on your public profile.
+
+- [`jpedro/jpedro.github.io`](https://github.com/jpedro/jpedro.github.io)
+  hosts the [jpedro.github.io](https://jpedro.github.io) user site.
+
+- [`jpedro/.github`](https://github.com/jpedro/.github) hosts Github special
+  files, for repos that don't define them. Like:
+
+  - [`.github/CODE_OF_CONDUCT.md`](https://github.com/jpedro/.github./github/CODE_OF_CONDUCT.md)
+
+  - [`.github/CONTRIBUTING.md`](https://github.com/jpedro/.github./github/CONTRIBUTING.md)
+
+  - [`.github/GOVERNANCE.md`](https://github.com/jpedro/.github./github/GOVERNANCE.md)
+
+  - [`.github/SECURITY.md`](https://github.com/jpedro/.github./github/SECURITY.md)
+
+  - [`.github/SUPPORT.md`](https://github.com/jpedro/.github./github/SUPPORT.md)
+
+  - [`.github/README.md`](https://github.com/jpedro/.github./github/README.md)
+  
+
 <!--
 image src="http://jpedro-avatar.herokuapp.com/image.php?text=%7B%20/%20%7D&size=250&font=Ubuntu&back=%230071c6&fore=%23ffffff&moveY=0.9" width="100" /
 
 https://github.com/mongodb/mongo-java-driver/blob/1d2e6faa80aeb5287a26d0348f18f4b51d566759/src/main/com/mongodb/ConnectionStatus.java#L213
+
 <image src=".github/assets/ah.png" />
 -->
