@@ -13,17 +13,17 @@ Special repos on GitHub:
 - [`jpedro/.github`](https://github.com/jpedro/.github) hosts Github special
   files, for repos that don't define them.
 
-  - [`.github/CODE_OF_CONDUCT.md`](https://github.com/jpedro/.github/blob/main/.github/CODE_OF_CONDUCT.md)
+  - [`CODE_OF_CONDUCT.md`](https://github.com/jpedro/.github/blob/main/.github/CODE_OF_CONDUCT.md)
 
-  - [`.github/CONTRIBUTING.md`](https://github.com/jpedro/.github/blob/main/.github/CONTRIBUTING.md)
+  - [`CONTRIBUTING.md`](https://github.com/jpedro/.github/blob/main/.github/CONTRIBUTING.md)
 
-  - [`.github/GOVERNANCE.md`](https://github.com/jpedro/.github/blob/main/.github/GOVERNANCE.md)
+  - [`GOVERNANCE.md`](https://github.com/jpedro/.github/blob/main/.github/GOVERNANCE.md)
 
-  - [`.github/SECURITY.md`](https://github.com/jpedro/.github/blob/main/.github/SECURITY.md)
+  - [`SECURITY.md`](https://github.com/jpedro/.github/blob/main/.github/SECURITY.md)
 
-  - [`.github/SUPPORT.md`](https://github.com/jpedro/.github/blob/main/.github/SUPPORT.md)
+  - [`SUPPORT.md`](https://github.com/jpedro/.github/blob/main/.github/SUPPORT.md)
 
-  - [`.github/README.md`](https://github.com/jpedro/.github/blob/main/.github/README.md)
+  - [`README.md`](https://github.com/jpedro/.github/blob/main/.github/README.md)
 
 
   See how neatily aligned the lines above are?
