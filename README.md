@@ -14,7 +14,7 @@ Special repos on GitHub:
 
   - [`.github/CODE_OF_CONDUCT.md`](https://github.com/jpedro/.github/blob/main/.github/CODE_OF_CONDUCT.md)
 
-  - [`.github/CONTRIBUTING.md`](https://github.com/jpedro/.github/blob/main/github/CONTRIBUTING.md)
+  - [`.github/CONTRIBUTING.md`](https://github.com/jpedro/.github/blob/main/.github/CONTRIBUTING.md)
 
   - [`.github/GOVERNANCE.md`](https://github.com/jpedro/.github/blob/main/.github/GOVERNANCE.md)
 
