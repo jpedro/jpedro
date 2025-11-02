@@ -11,7 +11,7 @@ Special repos on GitHub:
   write strong opinions that you will be forever embarrassed of.
 
 - [`jpedro/.github`](https://github.com/jpedro/.github) hosts Github special
-  files, for repos that don't define them. Like:
+  files, for repos that don't define them.
 
   - [`.github/CODE_OF_CONDUCT.md`](https://github.com/jpedro/.github/blob/main/.github/CODE_OF_CONDUCT.md)
 
