@@ -12,17 +12,17 @@ Special repos on GitHub:
 - [`jpedro/.github`](https://github.com/jpedro/.github) hosts Github special
   files, for repos that don't define them. Like:
 
-  - [`.github/CODE_OF_CONDUCT.md`](https://github.com/jpedro/.github./github/CODE_OF_CONDUCT.md)
+  - [`.github/CODE_OF_CONDUCT.md`](https://github.com/jpedro/.github/.github/CODE_OF_CONDUCT.md)
 
-  - [`.github/CONTRIBUTING.md`](https://github.com/jpedro/.github./github/CONTRIBUTING.md)
+  - [`.github/CONTRIBUTING.md`](https://github.com/jpedro/.github/github/CONTRIBUTING.md)
 
   - [`.github/GOVERNANCE.md`](https://github.com/jpedro/.github./github/GOVERNANCE.md)
 
-  - [`.github/SECURITY.md`](https://github.com/jpedro/.github./github/SECURITY.md)
+  - [`.github/SECURITY.md`](https://github.com/jpedro/.github/.github/SECURITY.md)
 
-  - [`.github/SUPPORT.md`](https://github.com/jpedro/.github./github/SUPPORT.md)
+  - [`.github/SUPPORT.md`](https://github.com/jpedro/.github/.github/SUPPORT.md)
 
-  - [`.github/README.md`](https://github.com/jpedro/.github./github/README.md)
+  - [`.github/README.md`](https://github.com/jpedro/.github/.github/README.md)
   
 
 <!--
