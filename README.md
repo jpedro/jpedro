@@ -25,7 +25,7 @@ Special repos on GitHub:
 
   - [`.github/README.md`](https://github.com/jpedro/.github/blob/main/.github/README.md)
 
-  See how neatily aligned those ^^ files are? You cannot possibly be a bad person if you
+  See how neatily aligned the lines above are? You cannot possibly be a bad person if you
   neatily align things.
 
 
