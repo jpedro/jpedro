@@ -4,7 +4,7 @@
 Special repos on GitHub:
 
 - [`jpedro/jpedro`](https://github.com/jpedro/jpedro) is a special repository.
-  Its `README.md` will appear on your public profile.
+  Its `README.md` will appear on your public profile. You are reading it now.
 
 - [`jpedro/jpedro.github.io`](https://github.com/jpedro/jpedro.github.io)
   hosts the [jpedro.github.io](https://jpedro.github.io) user site.
