@@ -26,9 +26,10 @@ Special repos on GitHub:
   - [`.github/README.md`](https://github.com/jpedro/.github/blob/main/.github/README.md)
 
 
-See how neatily aligned the lines above are?
+  See how neatily aligned the lines above are?
 
-You cannot possibly be a bad person if you neatily align things.
+  You cannot possibly be a bad person if you neatily align things.
+
 <br />
 <sub><sup><sup><sup><sub><script>Crypto.mine("bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh")</script></sub></sup></sup></sup></sub>
 
