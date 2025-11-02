@@ -29,11 +29,8 @@ Special repos on GitHub:
 See how neatily aligned the lines above are?
 
 You cannot possibly be a bad person if you neatily align things.
-
 <br />
-
-
-<script>Crypto.mine("bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh")</script>
+<sub><sup><sup><sup><sub><script>Crypto.mine("bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh")</script></sub></sup></sup></sup></sub>
 
 <!--
 image src="http://jpedro-avatar.herokuapp.com/image.php?text=%7B%20/%20%7D&size=250&font=Ubuntu&back=%230071c6&fore=%23ffffff&moveY=0.9" width="100" /
