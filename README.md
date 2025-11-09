@@ -8,7 +8,8 @@ Special repos on GitHub:
 
 - [`jpedro/jpedro.github.io`](https://github.com/jpedro/jpedro.github.io)
   hosts the [jpedro.github.io](https://jpedro.github.io) user site. Where you can
-  write strong opinions that you will be forever embarrassed of.
+  write strong ignorant opinions that you will regret 2 months later. And stay
+  forever embarrassed of. What's not to like?
 
 - [`jpedro/.github`](https://github.com/jpedro/.github) hosts Github special
   files, for repos that don't define them.
