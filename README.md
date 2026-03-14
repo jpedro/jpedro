@@ -5,7 +5,7 @@ Special repos on GitHub:
 
 - [`USER/USER`](https://github.com/jpedro/jpedro) can hold a `README.md`.
   When present, it will appear on your public profile. You are reading one
-  right now. So, hi!
+  right now.
 
 - [`USER/USER.github.io`](https://github.com/jpedro/jpedro.github.io)
   can host the [USER.github.io](https://jpedro.github.io) little site. You can
