@@ -7,9 +7,9 @@ Special repos on GitHub:
   Its `README.md` will appear on your public profile. You are reading it now.
 
 - [`USER/USER.github.io`](https://github.com/jpedro/jpedro.github.io)
-  hosts the [jpedro.github.io](https://jpedro.github.io) little site. I
-  write strong ignorant opinions there that I regret 2 months later. What's
-  not to like?
+  can host the [USER.github.io](https://jpedro.github.io) little site. You can
+  write strong ignorant opinions there that you will regret 2 months later.
+  What's not to like?
 
 - [`USER/.github`](https://github.com/jpedro/.github) hosts Github known
   files, for repos that don't define them themselves.
