@@ -11,8 +11,8 @@ Special repos on GitHub:
   write strong ignorant opinions there that I regret 2 months later. What's
   not to like?
 
-- [`USER/.github`](https://github.com/jpedro/.github) hosts Github special
-  files, for repos that don't define them.
+- [`USER/.github`](https://github.com/jpedro/.github) hosts Github known
+  files, for repos that don't define them themselves.
 
   - [`CODE_OF_CONDUCT.md`](https://github.com/jpedro/.github/blob/main/.github/CODE_OF_CONDUCT.md)
 
