@@ -11,7 +11,7 @@ Special repos on GitHub:
   write strong ignorant opinions there that you will regret 2 months later.
   What's not to like?
 
-- [`USER/.github`](https://github.com/jpedro/.github) hosts Github known
+- [`USER/.github`](https://github.com/jpedro/.github) hosts GitHub known
   files, for repos that don't define them themselves.
 
   - [`CODE_OF_CONDUCT.md`](https://github.com/jpedro/.github/blob/main/.github/CODE_OF_CONDUCT.md)
