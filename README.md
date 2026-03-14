@@ -3,15 +3,15 @@
 
 Special repos on GitHub:
 
-- [`jpedro/jpedro`](https://github.com/jpedro/jpedro) is a special repository.
+- [`USER/USER`](https://github.com/jpedro/jpedro) is a special repository.
   Its `README.md` will appear on your public profile. You are reading it now.
 
-- [`jpedro/jpedro.github.io`](https://github.com/jpedro/jpedro.github.io)
+- [`USER/USER.github.io`](https://github.com/jpedro/jpedro.github.io)
   hosts the [jpedro.github.io](https://jpedro.github.io) little site. I
   write strong ignorant opinions there that I regret 2 months later. What's
   not to like?
 
-- [`jpedro/.github`](https://github.com/jpedro/.github) hosts Github special
+- [`USER/.github`](https://github.com/jpedro/.github) hosts Github special
   files, for repos that don't define them.
 
   - [`CODE_OF_CONDUCT.md`](https://github.com/jpedro/.github/blob/main/.github/CODE_OF_CONDUCT.md)
