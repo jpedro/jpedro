@@ -13,7 +13,7 @@ Special repos on GitHub:
   What's not to like?
 
 - [`USER/.github`](https://github.com/jpedro/.github) hosts GitHub known
-  files, for repos that don't define them themselves.
+  files, for repos that don't create them themselves. Lazy gits!
 
   - [`CODE_OF_CONDUCT.md`](https://github.com/jpedro/.github/blob/main/.github/CODE_OF_CONDUCT.md)
 
